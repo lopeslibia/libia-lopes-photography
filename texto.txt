@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Líbia Lopes Photography</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #faf6f2;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    header {
+      background-color: #fff;
+      padding: 2rem;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+      font-family: 'Georgia', serif;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+      font-style: italic;
+      color: #555;
+    }
+
+    nav {
+      background-color: #ffe9dc;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #333;
+      margin: 0 1rem;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 2rem;
+      text-align: center;
+    }
+
+    footer {
+      background-color: #fff;
+      padding: 1rem;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+      border-top: 1px solid #eee;
+    }
+
+    .btn-whatsapp {
+      display: inline-block;
+      background-color: #25D366;
+      color: white;
+      padding: 0.8rem 1.5rem;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 1rem;
+    }
+
+    .btn-whatsapp:hover {
+      background-color: #1ebe5d;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Líbia Lopes Photography</h1>
+    <p>Calma, carinho e conexão.</p>
+  </header>
+
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <section id="sobre">
+    <h2>Sobre mim</h2>
+    <p>Sou Líbia, fotógrafa especializada em ensaios newborn e familiares. Meu estúdio fica no fundo de casa, simples, aconchegante e cheio de amor.</p>
+  </section>
+
+  <section id="servicos">
+    <h2>Serviços</h2>
+    <ul style="list-style: none; padding: 0;">
+      <li>📸 Ensaios Newborn</li>
+      <li>👨‍👩‍👧‍👦 Ensaios com filhos e família</li>
+      <li>💌 Pacotes personalizados sob medida</li>
+    </ul>
+  </section>
+
+  <section id="contato">
+    <h2>Fale comigo</h2>
+    <p>Quer agendar um ensaio? Me chama no WhatsApp!</p>
+    <a class="btn-whatsapp" href="https://wa.me/5594984505026" target="_blank">📱 Falar no WhatsApp</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Líbia Lopes Photography. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
